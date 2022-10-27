@@ -1,0 +1,1 @@
+# mern-snippet-manager
